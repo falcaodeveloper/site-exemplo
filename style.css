@@ -20,7 +20,7 @@ body {
 main {
     margin: auto;
     width: 500px;
-    padding: 12px;
+    padding: 16px;
     box-shadow: 3px 3px 5px #1A6796;
-    background-color: #159C92;
+    background-color: white;
 }
